@@ -24,12 +24,6 @@ The MERN stack application "Note-Book" saves written notes to MongoDB. The backe
 
 - React Router Dom
 
-<h2> Framework </h2>
-
-- Next JS
-
-- Tailwind CSS
-
 <h3> Minor Libraries </h3>
 
 - Dotenv
