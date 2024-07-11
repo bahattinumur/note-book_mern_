@@ -10,6 +10,10 @@ The MERN stack application "Note-Book" saves written notes to MongoDB. The backe
 
 - JavaScript
 
+<h2> Database </h2>
+
+- Mongo DB
+
 <h2> Libraries </h2>
 
 - React
